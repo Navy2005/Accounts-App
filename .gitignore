@@ -1,0 +1,7 @@
+.idea
+recovered_files
+Test
+Tasks.txt
+__pycache__
+Database/app_data.db
+Database/DBTest.py
